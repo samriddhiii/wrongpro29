@@ -96,7 +96,7 @@ function draw(){
     pop()
   
     push()
-    fill("cyan")
+    fill("purple")
     box16.display();
     box17.display();
     box18.display();
@@ -123,7 +123,7 @@ function draw(){
     pop()
   
     push()
-    fill("violet")
+    fill("cyan")
     box31.display();
     box32.display();
     box33.display();
